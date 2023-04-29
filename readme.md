@@ -66,3 +66,23 @@ Examples:
 -   Lakshana: The phrase "a man of letters" implies someone who is well-educated and literate.
 -   Vyanjana: The phrase "the pen is mightier than the sword" suggests that words and ideas have more power than weapons.
 -   Sabadasakti: The word "love" can have different meanings and interpretations depending on the context and relationship between speakers.
+
+
+Linguistic and Nonlinguistic Resources of Communication:
+
+Communication can be divided into two categories, linguistic and nonlinguistic. Both have their unique characteristics and can convey different meanings.
+
+Genres:\
+Communication can be divided into written and spoken genres. Spoken language happens in real-time and is typically unplanned, while written language allows the writer to take pause and choose their words carefully.
+
+Gesture and Body Language:\
+Nonlinguistic communication includes gesture and body language. Words' meaning is associated with gesture and posture in spoken language, and speaker controls the communicative strategy. Facial expressions, including laughing, smiling, sadness with tears, anger with a clenched jaw, fear with a grimace, surprised with raised eyebrows and wide eyes, and disgust with wrinkled nose, are responsible for a huge proportion of nonverbal communication. A blank face expression is characterized by a neutral configuration of the facial features, implying a lack of strong emotion. Nose and cheek gestures, such as flaring nostrils, touching cheeks in surprise or horror, indicate different emotions.
+
+Spoken Language:\
+Spoken language is most typically face to face, and speakers regularly interrupt each other, speak at the same time, intervene in another's contribution, or overlap in their speaking turns. The minimal unit of communication is the tone unit, which consists of at least one intonation contour that ends in a rising or falling tone. The clause may be considered the basic unit of grammar in spoken language, but tone units can also be phrases or single words.
+
+Written Language:\
+Written language denies paralinguistic cues and allows the writer to rewrite their work. Sentences in the written sense are difficult to identify in spoken language, and speech is marked by small units of communication often consisting of just single words or phrases, rather than complete sentences. The minimal unit of communication is the sentence, which consists of at least one main clause and ends in a full stop. Written language has a storage function and allows for the shifting language and the use of multilingual markers.
+
+Dissertation:\
+A dissertation on communication could explore various topics related to the use of implicit meaning, conversational implicature, indirect speech acts, ironic utterances, presupposition, and entitlement in communication. Factors that influence the use of nonverbal communication, such as context and cultural differences, could also be examined. The dissertation could provide insights into the complexities of communication and its importance in interpersonal communication.
