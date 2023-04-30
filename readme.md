@@ -250,3 +250,23 @@ Underlying Principle for Efficient Communication
 -   Grice identifies an underlying principle that determines the way in which language is used with maximum efficiency and effectiveness to achieve rational interaction in communication.
 -   He identifies four maxims of conversation that speakers follow to communicate effectively: the maxim of quantity, quality, relevance, and manner.
 -   Violations of these maxims can create implicatures, or implied meanings beyond the literal meaning of the words used.
+
+Speech Act Theory
+
+Speech Act Theory is a way of studying language that focuses on the intention behind what is being said. There are different types of speech acts, including performatives and constatives.
+
+Exercise
+
+In this exercise, we need to identify which statements are performatives and which are constatives. For example, "I declare this bridge open" is a performative speech act because it is an action being performed with the statement.
+
+Explicit and Implicit Meaning
+
+We also need to identify explicit and implicit meanings in certain statements. For example, "All applications must be submitted to the dean by 31st March" has an explicit meaning of a deadline, but it also implies the consequence of not meeting the deadline.
+
+Locutionary, Illocutionary, and Perlocutionary Acts
+
+We need to identify the locutionary, illocutionary, and perlocutionary acts in certain statements. For example, "It's going to charge!" is a locutionary act because it is a statement being made. The illocutionary act is to warn, and the perlocutionary act is to create fear or alarm.
+
+Classification of Speech Acts
+
+Speech acts can also be classified based on their function. Representative or assertive speech acts express the speaker's belief or opinion, while directive speech acts attempt to get the listener to do something. Commissive speech acts commit the speaker to a future action, while expressive speech acts express a psychological attitude or state in the speaker. Declarative speech acts affect immediate changes in some current state of affairs.
