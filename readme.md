@@ -199,3 +199,55 @@ Explain the minimal unit of communication in spoken language and written languag
 In spoken language, the minimal unit of communication is the tone unit, which consists of at least one intonation contour that ends in a rising or falling tone. The clause may be considered the basic unit of grammar in spoken language, but tone units can also be phrases or single words.
 
 In written language, the minimal unit of communication is the sentence, which consists of at least one main clause and ends in a full stop. Written language has a storage function and allows for the shifting language and the use of multilingual markers. Sentences in the written sense are difficult to identify in spoken language, and speech is marked by small units of communication often consisting of just single words or phrases, rather than complete sentences.
+
+
+Topic: Conversational Implicature
+
+I. Introduction
+
+    Meaning is communication intended to be recognized as intended.
+    Two theories of meaning: natural meaning and conversational implicature.
+    Conversational implicature is the non-natural, linguistic meaning of utterances.
+
+II. Cooperative Principle
+
+    Underlying principle that determines the way language is used for rational interaction.
+    Subdivided into nine maxims of conversation.
+
+III. Exercise
+
+    Speaker's intended opt-out from maxims using hedges:
+    "I am sure you already know" - Maxim of Quantity
+    "I do not think I have sufficient evidence for this" - Maxim of Quality
+    "I know this is irrelevant, but..." - Maxim of Relevance
+    "This is a bit confused, but..." - Maxim of Clarity
+
+IV. Conventional Implicature
+
+    Non-truth conditional inference arising from conventional features of lexical items and linguistic construction.
+    Examples:
+        "He is Chinese; he therefore knows how to use chopsticks."
+        "John is poor but he is honest."
+        "Our sales have gone up but theirs have gone down."
+        "John can read Hindi, moreover, he can write poems in the language."
+
+V. Conventional Words
+
+    Words with conventional implicatures:
+        "Realize," "think"
+        "Adore," "love," "like"
+        "All," "most," "many," "some"
+
+VI. M-Implicature
+
+    Additional implicatures arising from the presence or absence of the definite article or certain verbs:
+        "John went to university" vs. "John went to the university."
+        "John stopped the alarm" vs. "John got the alarm to stop."
+        "Their new boss is not an unfriendly person" vs. "Their new boss is a friendly person."
+
+VII. Conclusion
+
+    Conversational implicature is an important aspect of meaning in communication.
+    Understanding the cooperative principle and implicatures can help improve communication and avoid misunderstandings.
+
+
