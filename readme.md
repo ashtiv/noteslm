@@ -270,3 +270,69 @@ We need to identify the locutionary, illocutionary, and perlocutionary acts in c
 Classification of Speech Acts
 
 Speech acts can also be classified based on their function. Representative or assertive speech acts express the speaker's belief or opinion, while directive speech acts attempt to get the listener to do something. Commissive speech acts commit the speaker to a future action, while expressive speech acts express a psychological attitude or state in the speaker. Declarative speech acts affect immediate changes in some current state of affairs.
+
+Exam Paper 1
+
+1.  Define the Cooperative Principle and explain its importance in effective communication. (10 marks)
+
+The Cooperative Principle is a way of communicating effectively by following certain maxims of conversation. These maxims include being clear, providing enough information, being truthful, and staying relevant. By following these maxims, speakers can avoid misunderstandings and communicate more effectively.
+
+1.  What is conventional implicature? Give an example of a sentence that conveys conventional implicature. (10 marks)
+
+Conventional implicature refers to the meaning that is inferred from the use of language beyond the literal meaning. For example, when we say "He is Chinese; he therefore knows how to use chopsticks," we are implying that all Chinese people know how to use chopsticks.
+
+1.  Explain the concept of M-Implicature with an example. (10 marks)
+
+M-Implicature refers to the additional meaning that can be inferred based on the use of certain words or grammar structures. For example, by saying "John went to the university," we imply that John went to a specific university rather than just any university.
+
+1.  What is Grice's theory of conversational meaning? How does it explore the relationship between natural and linguistic meaning? (10 marks)
+
+Grice's theory explores the relationship between the natural meaning in the external world and the non-natural, linguistic meaning of utterances. He identifies four maxims of conversation that speakers follow to communicate effectively: the maxim of quantity, quality, relevance, and manner. Violations of these maxims can create implicatures, or implied meanings beyond the literal meaning of the words used.
+
+1.  Differentiate between performatives and constatives in speech act theory. Provide an example of each. (5 marks)
+
+Performatives are speech acts that perform an action, while constatives are speech acts that describe a state of affairs. For example, "I declare this meeting adjourned" is a performative speech act because it is an action being performed with the statement. In contrast, "The sky is blue" is a constative speech act because it is describing a state of affairs.
+
+Exam Paper 2
+
+1.  Explain the concept of conversational implicature and its importance in effective communication. (10 marks)
+
+Conversational implicature is the meaning that is conveyed through language beyond the literal meaning of the words. It is important in effective communication because it allows speakers to communicate more efficiently and effectively by conveying additional meaning through implication rather than explicit statement.
+
+1.  Discuss the four maxims of conversation identified by Grice. How do they contribute to efficient communication? (10 marks)
+
+Grice identified four maxims of conversation: the maxim of quantity, quality, relevance, and manner. These maxims contribute to efficient communication by encouraging speakers to be clear, informative, truthful, and relevant in their communication. By following these maxims, speakers can avoid misunderstandings and communicate more effectively.
+
+1.  What is the difference between conventional implicature and M-Implicature? Give an example of each. (10 marks)
+
+Conventional implicature refers to the meaning that is inferred from the use of language beyond the literal meaning, while M-Implicature refers to the additional meaning that can be inferred based on the use of certain words or grammar structures. An example of conventional implicature is the sentence "She's an English teacher, so she must be good at grammar," which implies that all English teachers are good at grammar. An example of M-Implicature is the sentence "I'm not saying you're wrong," which implies that the speaker thinks the listener is wrong.
+
+1.  How does Grice's theory of conversational meaning relate to the Cooperative Principle? (10 marks)
+
+Grice's theory of conversational meaning is based on the Cooperative Principle, which is a way of communicating effectively. The maxims of conversation that Grice identified are a part of the Cooperative Principle, and they encourage speakers to communicate effectively by being clear, informative, truthful, and relevant.
+
+1.  Define speech act theory and its different types of speech acts. Provide an example of each type. (5 marks)
+
+Speech act theory is a way of studying language that focuses on the intention behind what is being said. There are different types of speech acts, including performatives, constatives, directives, commissives, and expressives. An example of a performative speech act is "I apologize for my mistake," where the speaker is performing an action of apologizing. An example of a directive speech act is "Please close the door," where the speaker is attempting to get the listener to do something. An example of a commissive speech act is "I will help you move," where the speaker is committing to a future action. An example of an expressive speech act is "I'm so excited for the concert," where the speaker is expressing a psychological attitude or state.
+
+Exam Paper 3
+
+1.  Discuss the concept of natural meaning and its relationship with linguistic meaning according to Grice's theory. (10 marks)
+
+Grice's theory explores the relationship between the natural meaning in the external world and the non-natural, linguistic meaning of utterances. He argues that the essence of meaning is communication that is intended to be recognized as having been intended. This means that meaning, or speaker-meaning, is a matter of expressing and recognizing intention.
+
+1.  What is the essence of meaning according to Grice? How does it relate to the recognition of intention in communication? (10 marks)
+
+The essence of meaning according to Grice is communication that is intended to be recognized as having been intended. This means that meaning, or speaker-meaning, is a matter of expressing and recognizing intention. In other words, the meaning of an utterance is determined by the speaker's intention in making that utterance, and the listener's recognition of that intention.
+
+1.  Give an example of a sentence that conveys conventional implicature. How is it different from M-Implicature? (10 marks)
+
+An example of a sentence that conveys conventional implicature is "He's a man, so he must be good at math," which implies that all men are good at math. The difference between conventional implicature and M-Implicature is that conventional implicature is based on the conventional meaning of words, while M-Implicature is based on the use of particular words or grammar structures to convey additional meaning.
+
+1.  How does the violation of the maxims of conversation result in implicatures? Give an example. (10 marks)
+
+The violation of the maxims of conversation can result in implicatures, or implied meanings beyond the literal meaning of the words used. For example, if someone asks "Do you have any siblings?" and the other person responds "I have a brother," the speaker is violating the maxim of quantity by providing less information than expected. This violation creates the implicature that the speaker does not have any other siblings.
+
+1.  Differentiate between locutionary, illocutionary, and perlocutionary acts in speech act theory. Provide an example of each. (5 marks)
+
+Locutionary acts are the literal meaning of an utterance, illocutionary acts are the intended meaning behind an utterance, and perlocutionary acts are the effect or consequence of an utterance. An example of a locutionary act is "I am hungry," which is the literal meaning of the utterance. An example of an illocutionary act is "Can you pass me the salt?" where the intended meaning is a request to pass the salt. An example of a perlocutionary act is "I'm sorry for your loss," which is intended to comfort the listener who has experienced a loss.
