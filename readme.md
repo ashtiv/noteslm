@@ -201,53 +201,52 @@ In spoken language, the minimal unit of communication is the tone unit, which co
 In written language, the minimal unit of communication is the sentence, which consists of at least one main clause and ends in a full stop. Written language has a storage function and allows for the shifting language and the use of multilingual markers. Sentences in the written sense are difficult to identify in spoken language, and speech is marked by small units of communication often consisting of just single words or phrases, rather than complete sentences.
 
 
-Topic: Conversational Implicature
-
 I. Introduction
 
-    Meaning is communication intended to be recognized as intended.
-    Two theories of meaning: natural meaning and conversational implicature.
-    Conversational implicature is the non-natural, linguistic meaning of utterances.
+When we communicate, we intend to be understood. There are two ways of understanding meaning: natural meaning and conversational implicature. Conversational implicature is the meaning that is conveyed through language beyond the literal meaning of the words.
 
 II. Cooperative Principle
 
-    Underlying principle that determines the way language is used for rational interaction.
-    Subdivided into nine maxims of conversation.
+The Cooperative Principle is a way of communicating effectively. It has nine maxims of conversation that help us understand what someone is trying to convey. These maxims include being clear, providing enough information, being truthful, and staying relevant.
 
 III. Exercise
 
-    Speaker's intended opt-out from maxims using hedges:
-    "I am sure you already know" - Maxim of Quantity
-    "I do not think I have sufficient evidence for this" - Maxim of Quality
-    "I know this is irrelevant, but..." - Maxim of Relevance
-    "This is a bit confused, but..." - Maxim of Clarity
+Sometimes, speakers may choose to opt-out of following a maxim by using hedges. For example, using phrases like "I am sure you already know" can opt-out of providing enough information.
 
 IV. Conventional Implicature
 
-    Non-truth conditional inference arising from conventional features of lexical items and linguistic construction.
-    Examples:
-        "He is Chinese; he therefore knows how to use chopsticks."
-        "John is poor but he is honest."
-        "Our sales have gone up but theirs have gone down."
-        "John can read Hindi, moreover, he can write poems in the language."
+Conventional implicature refers to the meaning that is inferred from the use of language beyond the literal meaning. For example, when we say "He is Chinese; he therefore knows how to use chopsticks," we are implying that all Chinese people know how to use chopsticks.
 
 V. Conventional Words
 
-    Words with conventional implicatures:
-        "Realize," "think"
-        "Adore," "love," "like"
-        "All," "most," "many," "some"
+Certain words have conventional implicatures, which means they convey a meaning beyond their literal definition. For example, when someone says "I realize," they are implying that they understand something that they may not have understood before.
 
 VI. M-Implicature
 
-    Additional implicatures arising from the presence or absence of the definite article or certain verbs:
-        "John went to university" vs. "John went to the university."
-        "John stopped the alarm" vs. "John got the alarm to stop."
-        "Their new boss is not an unfriendly person" vs. "Their new boss is a friendly person."
+M-Implicature refers to the additional meaning that can be inferred based on the use of certain words or grammar structures. For example, by saying "John went to the university," we imply that John went to a specific university rather than just any university.
 
 VII. Conclusion
 
-    Conversational implicature is an important aspect of meaning in communication.
-    Understanding the cooperative principle and implicatures can help improve communication and avoid misunderstandings.
+Understanding conversational implicature is important for effective communication. By understanding the Cooperative Principle, conventional implicature, and M-Implicature, we can avoid misunderstandings and communicate more effectively.
 
+Grice's Theory of Conversational Meaning
 
+Conceptual Relationship between Natural and Linguistic Meaning
+
+-   Grice's theory explores the relationship between the natural meaning in the external world and the non-natural, linguistic meaning of utterances.
+
+Tottering Steps Example
+
+-   Mary asks John if he is attending Bill's birthday party, to which he responds that he has to work.
+-   John then asks where Peter is, and Mary responds that the light in his office is on.
+
+The Essence of Meaning
+
+-   Grice argues that the essence of meaning is communication that is intended to be recognized as having been intended.
+-   This means that meaning, or speaker-meaning, is a matter of expressing and recognizing intention.
+
+Underlying Principle for Efficient Communication
+
+-   Grice identifies an underlying principle that determines the way in which language is used with maximum efficiency and effectiveness to achieve rational interaction in communication.
+-   He identifies four maxims of conversation that speakers follow to communicate effectively: the maxim of quantity, quality, relevance, and manner.
+-   Violations of these maxims can create implicatures, or implied meanings beyond the literal meaning of the words used.
