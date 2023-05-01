@@ -395,3 +395,98 @@ A gesture is a nonverbal form of communication that conveys meaning through body
 1.  Write a note on ethics of language use.
 
 The ethics of language use refer to the principles of ethical behavior in language use, including honesty, respect, and fairness. They are important for promoting positive social interactions and preventing harm. Ethical language use includes avoiding hate speech, avoiding deceptive language, and using language in a way that promotes understanding and empathy. Ethical language use also involves being aware of the power dynamics that can be present in language use and using language in a way that is respectful of others. The ethics of language use are essential for promoting positive social interactions and creating a more just and equitable society.
+
+
+# midsem paper
+
+1.  Define semantic space and analyze semantic space of the sentence, the world of today is not the world of 2001.
+
+Semantic space refers to the multi-dimensional space that represents the meanings of words and concepts. It is a mathematical model that represents the relationships between different concepts and words in a language. In semantic space, words and concepts are represented as points, and the distance between these points indicates the degree of similarity or difference between them.
+
+When we analyze the semantic space of the sentence, "the world of today is not the world of 2001," we can see that it expresses a contrast between the present and the past. The word "world" is the central concept, and it is represented as a point in the semantic space. The words "today" and "2001" are represented as points that are relatively close to the point representing "world," indicating that they are closely related concepts. However, the word "not" represents a negation, and it is located at a distance from the point representing "world," indicating a degree of difference or contrast between the two concepts.
+
+Overall, the semantic space of this sentence depicts a contrast between the world of today and the world of 2001, suggesting that there have been significant changes in the world since then.
+
+1.  Discuss the relevance of information source and semantic sink in mathematical model of communication.
+
+In the mathematical model of communication, information source refers to the originator of a message, while the semantic sink refers to the intended recipient of the message. The relevance of these two concepts lies in their role in ensuring effective communication.
+
+The information source is responsible for encoding the message in a way that can be understood by the semantic sink. This involves selecting the appropriate words and symbols to convey the intended meaning, as well as considering the prior knowledge and expectations of the semantic sink. The semantic sink, on the other hand, is responsible for decoding the message and interpreting its meaning based on their own knowledge and experience.
+
+The effectiveness of communication depends on the ability of the information source to encode the message in a way that is meaningful to the semantic sink, and the ability of the semantic sink to decode the message accurately. Any mismatch between the encoding and decoding processes can lead to misunderstandings and miscommunications.
+
+Therefore, understanding the roles of the information source and the semantic sink is crucial in designing effective communication strategies and ensuring successful communication.
+
+1.  What is Information? How is it different from communication?
+
+Information refers to any message or data that conveys meaning or knowledge. It can be transmitted through various channels, such as language, images, or symbols. Information can be factual or subjective, and it can be used for various purposes, such as education, entertainment, or decision-making.
+
+Communication, on the other hand, is the process of exchanging information between individuals or groups. Communication involves encoding and decoding messages, as well as feedback mechanisms to ensure the message has been understood. Communication can take various forms, such as verbal, nonverbal, or written.
+
+While information and communication are closely related, they are distinct concepts. Information is the content that is being transmitted, while communication is the process of transmitting that content. Information can exist without communication, such as in a database or a book, but communication always involves the transfer of information.
+
+1.  Discuss theory of signification.
+
+The theory of signification, also known as semiotics, is the study of signs and symbols and their meanings. According to this theory, a sign is anything that stands for something else, and the meaning of a sign is determined by the relationship between the signifier (the physical form of the sign) and the signified (the concept or idea that the sign represents).
+
+The theory of signification distinguishes between three types of signs: iconic signs, indexical signs, and symbolic signs. Iconic signs resemble what they represent, such as a photograph or a drawing. Indexical signs have a direct or causal relationship with what they represent, such as smoke indicating fire. Symbolic signs have an arbitrary relationship with what they represent, such as words or numbers.
+
+Semiotics also distinguishes between denotation and connotation. Denotation refers to the literal, objective meaning of a sign, while connotation refers to the subjective, cultural or emotional associations that a sign can evoke.
+
+Overall, the theory of signification provides a framework for understanding how signs and symbols are used to convey meaning and how they are interpreted in different contexts.
+
+1.  What is language form? Discuss how different functions of a language form generate different meanings.
+
+Language form refers to the structure and organization of language, including grammar, syntax, and vocabulary. The different functions of language form generate different meanings by shaping the way words and concepts are used and interpreted.
+
+For example, the use of tense in a sentence can indicate whether an event has already occurred, is currently occurring, or will occur in the future. This can affect the meaning of the sentence and the way it is interpreted by the listener or reader. Similarly, the use of different grammatical structures, such as active or passive voice, can affect the emphasis and tone of a sentence.
+
+The vocabulary used in a language can also contribute to different meanings. For example, the use of technical terminology can indicate a specialized or professional context, while the use of slang or informal language can indicate a casual or familiar context.
+
+Finally, the context in which language is used can also affect its meaning. For example, the same sentence can have different meanings depending on the speaker, the audience, and the cultural or social context in which it is used.
+
+Overall, the different functions of language form work together to generate meaning and convey information in different ways.
+
+1.  What is speech act? Analyze three acts of it.
+
+A speech act refers to an utterance that performs an action, such as making a request, giving an order, or making a promise. There are three main types of speech acts: locutionary acts, illocutionary acts, and perlocutionary acts.
+
+A locutionary act is the literal meaning of an utterance, such as the words and grammar used in a sentence. For example, the locutionary act of the sentence "It's cold in here" is a statement about the temperature.
+
+An illocutionary act is the intended meaning of an utterance, such as the function or purpose of the speech act. For example, the illocutionary act of the sentence "Can you close the window?" is a request.
+
+A perlocutionary act is the effect of an utterance on the listener or the situation. For example, the perlocutionary act of the sentence "I promise to be there" is to create an expectation or obligation on the speaker to attend the event.
+
+Overall, speech acts are a useful way to analyze the function and purpose of language, and to understand the effects that language can have on individuals and situations.
+
+1.  What is communicative competence? Describe how it is different from linguistic competence.
+
+Communicative competence refers to the ability to use language effectively in different social contexts and situations. It involves not only knowledge of grammar and vocabulary, but also an understanding of cultural norms, social cues, and the ability to adapt language use to different audiences and situations.
+
+Linguistic competence, on the other hand, refers to the ability to use the rules of grammar and syntax to produce and understand language. It is the knowledge of the internal structure of a language and its basic rules.
+
+While linguistic competence is necessary for effective communication, communicative competence goes beyond grammar and syntax to include the ability to use language appropriately and effectively in different contexts. Communicative competence includes the ability to use nonverbal cues, such as facial expressions and body language, to convey meaning, as well as an understanding of the social and cultural norms that govern language use.
+
+Overall, communicative competence is a broader concept that encompasses linguistic competence and extends to the ability to use language effectively in different social and cultural contexts.
+
+1.  Write a note on theory of performance.
+
+The theory of performance is a framework for understanding how language use is shaped by social and cultural contexts. According to this theory, language use is not just a matter of individual speech acts, but also reflects social and cultural norms and expectations.
+
+The theory of performance distinguishes between two types of language use: referential and performative. Referential language use involves conveying information or stating facts, while performative language use involves performing an action or function, such as making a promise or giving an order.
+
+The theory of performance also emphasizes the role of social and cultural norms in shaping language use. These norms include not only the rules of grammar and syntax, but also expectations about appropriate language use in different contexts and situations.
+
+Finally, the theory of performance underscores the importance of context in understanding language use. The same utterance can have different meanings and effects depending on the social and cultural context in which it is used.
+
+Overall, the theory of performance provides a useful framework for understanding how language use is shaped by social and cultural norms, and how language use reflects and reinforces these norms.
+
+1.  Discuss why possibility and feasibility of language matter in communication.
+
+The possibility and feasibility of language are important factors in effective communication. The possibility of language refers to the ability of language to express a wide range of ideas and concepts, while the feasibility of language refers to the practicality of using language in different contexts and situations.
+
+The possibility of language is important because it allows for the expression of complex ideas and the conveyance of nuanced meanings. A language that is too limited in its vocabulary or grammar may not be able to express certain ideas or concepts, making effective communication difficult or impossible.
+
+The feasibility of language is also important because it affects the practicality of using language in different contexts and situations. For example, a language that is not widely spoken or understood may limit the ability to communicate with others, while a language that is too complex or formal may be impractical or inappropriate for certain situations.
+
+Overall, the possibility and feasibility of language are crucial factors in effective communication, and they must be carefully considered in order to ensure that language use is appropriate, effective, and practical in different social
