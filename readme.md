@@ -336,3 +336,60 @@ The violation of the maxims of conversation can result in implicatures, or impli
 1.  Differentiate between locutionary, illocutionary, and perlocutionary acts in speech act theory. Provide an example of each. (5 marks)
 
 Locutionary acts are the literal meaning of an utterance, illocutionary acts are the intended meaning behind an utterance, and perlocutionary acts are the effect or consequence of an utterance. An example of a locutionary act is "I am hungry," which is the literal meaning of the utterance. An example of an illocutionary act is "Can you pass me the salt?" where the intended meaning is a request to pass the salt. An example of a perlocutionary act is "I'm sorry for your loss," which is intended to comfort the listener who has experienced a loss.
+
+
+1.  What are the locutionary, illocutionary, and perlocutionary acts of the sentence "There is a no Smoking zone at IIT BHU"?
+
+The locutionary act of the sentence is the act of uttering the sentence and stating a fact or making a claim about the existence of a no-smoking zone in IIT BHU. The illocutionary act is to inform the hearer about the existence of the no-smoking zone. The perlocutionary act is to persuade or dissuade the hearer from smoking in the designated area. The perlocutionary act is dependent on the listener's reaction to the illocutionary act. If the listener is persuaded to refrain from smoking in the designated area, then the perlocutionary act is successful.
+
+1.  How is implicature meaning a product of inner semantic space?
+
+Implicature meaning arises when the speaker implies something without explicitly stating it. It is a product of the inner semantic space because it is influenced by the speaker's intentions, the context of the conversation, and the listener's background knowledge. The listener infers the meaning of the speaker's words based on the speaker's tone, facial expressions, and the context of the conversation. The meaning is not explicitly stated, but it is implied by the speaker's choice of words and the context of the conversation.
+
+1.  What are the implicatures that arise in the sentence "If you are as clever as me, you may be able to do it for yourself. But if you are as clever as John, you will ask me to do it for you"?
+
+The implicatures are that the speaker is suggesting that the listener is not as clever as the speaker or John and that the speaker is willing to assist the listener if they ask. The sentence implies that the speaker has more expertise than the listener and that John is even more knowledgeable than the speaker.
+
+1.  What are the main types of speech act?
+
+The main types of speech act are locutionary, illocutionary, and perlocutionary acts. The locutionary act is the act of uttering a sentence or making a statement. The illocutionary act is the intended effect of the statement on the listener. The perlocutionary act is the actual effect of the statement on the listener.
+
+1.  How does language use possess suggestive power?
+
+Language use possesses suggestive power because it can influence the beliefs, attitudes, and behaviors of the listener. Language can be used to persuade, convince, or manipulate the listener. The use of persuasive language can be seen in advertising, political speeches, and sales pitches. Language can also be used to create a sense of belonging to a group or community. For example, the use of inclusive language can create a sense of belonging for marginalized groups.
+
+1.  What is discourse meaning, and how is it different from dialogue?
+
+Discourse meaning refers to the meaning that arises from the larger context of a conversation or text. It is different from dialogue, which refers to the specific exchange of utterances between speakers. Discourse meaning is influenced by the social, cultural, and historical context of the conversation or text. It includes the speaker's intentions, the listener's background knowledge, and the shared assumptions and values of the community. Discourse meaning can help us understand larger social issues and power dynamics.
+
+1.  How does language represent individual and mutual relational power structures?
+
+Language represents individual and mutual relational power structures by the way language is used to express and reinforce social hierarchies and power dynamics. Language can be used to assert dominance or to challenge authority. It can also be used to establish and maintain relationships of mutual respect and trust. For example, the use of honorifics in some cultures can demonstrate respect for those in positions of authority.
+
+1.  What is the expression of gender in language, and how does it impact society?
+
+The expression of gender in language refers to the way language is used to differentiate and categorize individuals based on their gender. It can impact society by reinforcing gender stereotypes and contributing to gender inequality. For example, the use of gendered language can create a sense of exclusion for non-binary individuals or reinforce gender roles and expectations. The use of gender-neutral language can promote inclusivity and reduce gender-based discrimination.
+
+1.  How is expressing hate and cursing in public space a violation of human rights?
+
+Expressing hate and cursing in public space can be considered a violation of human rights because it can create a hostile and intimidating environment that restricts the freedom of others to express themselves. Hate speech and cursing can contribute to discrimination, prejudice, and violence against individuals or groups who are targeted by such speech. It can also create a culture of fear and intolerance. The freedom of speech is not an absolute right, and it must be balanced against the rights of others to safety and dignity.
+
+1.  What are the language rights of a language user, and why are they important?
+
+The language rights of a language user refer to the right to use, maintain, and develop their language and culture. They are important for preserving linguistic diversity and promoting cultural identity. Language rights include the right to use one's native language in public and private settings, the right to access education in one's native language, and the right to participate in cultural activities and events. Language rights are essential for the preservation of diverse cultures and the promotion of mutual respect and understanding.
+
+1.  What is coherence, and how is it different from cohesion?
+
+Coherence refers to the overall sense or meaning of a text or conversation. It is different from cohesion, which refers to the way individual elements are connected within the text or conversation. Coherence is influenced by the organization and structure of the text or conversation, while cohesion is influenced by the use of cohesive devices such as pronouns, conjunctions, and lexical repetition. Coherence is essential for effective communication, as it ensures that the meaning of a text or conversation is clear and understandable.
+
+1.  What is turn-taking, and what are the principles of turn-taking in conversation?
+
+Turn-taking refers to the process of speakers taking turns to speak in a conversation. The principles of turn-taking include the avoidance of overlap, the use of adjacency pairs, and the use of cues to signal the end of a turn. For example, speakers can use intonation, facial expressions, or body language to signal the end of their turn and the beginning of the listener's turn. Turn-taking is essential for effective communication, as it ensures that all participants have an opportunity to express their thoughts and ideas.
+
+1.  What is a gesture, and what meaning does it communicate?
+
+A gesture is a nonverbal form of communication that conveys meaning through body language. It can communicate emotions, attitudes, and intentions. Gestures can be conscious or unconscious and can vary across cultures and contexts. For example, a gesture such as a nod of the head can convey agreement or acknowledgement, while a gesture such as a shrug of the shoulders can convey uncertainty or indifference. Gestures are an important aspect of communication, as they can convey meaning that is not expressed through words.
+
+1.  What are the ethics of language use, and why are they important?
+
+The ethics of language use refer to the principles of ethical behavior in language use, including honesty, respect, and fairness. They are important for promoting positive social interactions and preventing harm. Ethical language use includes avoiding hate speech, avoiding deceptive language, and using language in a way that promotes understanding and empathy. Ethical language use also involves being aware of the power dynamics that can be present in language use and using language in a way that is respectful of others. The ethics of language use are essential for creating a society where all individuals can communicate effectively and where mutual respect and understanding are valued.
