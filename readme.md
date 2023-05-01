@@ -338,7 +338,7 @@ The violation of the maxims of conversation can result in implicatures, or impli
 Locutionary acts are the literal meaning of an utterance, illocutionary acts are the intended meaning behind an utterance, and perlocutionary acts are the effect or consequence of an utterance. An example of a locutionary act is "I am hungry," which is the literal meaning of the utterance. An example of an illocutionary act is "Can you pass me the salt?" where the intended meaning is a request to pass the salt. An example of a perlocutionary act is "I'm sorry for your loss," which is intended to comfort the listener who has experienced a loss.
 
 
-#Endsem previous paper
+# Endsem previous paper
 
 1.  What are the locutionary, illocutionary, and perlocutionary acts of the sentence "There is a no Smoking zone at IIT BHU"?
 
